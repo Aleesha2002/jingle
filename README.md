@@ -1,2 +1,2 @@
 # jingle
-Online music app using oops c++
+An oops c++ project based on online music apps
